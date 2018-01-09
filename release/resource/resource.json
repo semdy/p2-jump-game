@@ -1,0 +1,12 @@
+{
+"resources":
+	[
+       {"name":"kuchipatchi1.png","type":"image","url":"assets/kuchipatchi1.png"}
+		,{"name":"rects","type":"sheet","url":"assets/color-rectangles.json"}
+	],
+
+"groups":
+	[
+        {"name":"preload","keys":"rects,kuchipatchi1.png"}
+	]
+}
